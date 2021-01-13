@@ -1,4 +1,4 @@
-# Todos Next/React/Apollo Example
+# Todos Next/Hasura/Apollo Example
 
 ## Setup
 
