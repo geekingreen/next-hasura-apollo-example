@@ -1,7 +1,7 @@
 import { useRef } from "react";
 import Head from "next/head";
 import styles from "../styles/Home.module.css";
-import useTodos from "./services/todos";
+import useTodos from "../services/todos";
 
 export default function Home() {
   const inputRef = useRef();
